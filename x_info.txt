@@ -1,3 +1,229 @@
-Creado el martes 19 de septiembre 2023
+Introducción Flexbox y CSS Grid:
 
-Modificado miércoles 20 de septiembre 2023
+¿Que es Flexbox? y aplicandolo al proyecto
+06:51
+Alineación en Flexbox
+07:39
+¿Qué es CSS Grid? y aplicandolo al Proyecto
+03:37
+Terminología de CSS Grid
+11:01
+
+Ecommerce - Finalizando la Página de Inicio
+14 clases • 2 h 6 min
+Creando las Categorías
+08:28
+Añadiendo Fuentes en CSS
+10:02
+Unidades en CSS y porque utilizar REM
+17:52
+Formas de Escribir código en CSS
+03:52
+Ajustando el Diseño
+09:53
+Creando la sección de Nosotros
+10:01
+¿Cuando utilizar CSS Grid y cuando Flexbox?
+07:26
+Creando la sección de Productos
+08:21
+Finalizando los Productos
+09:43
+Mostrando los Productos en el GRID
+14:03
+Object fit para ajustar las imagenes
+07:46
+Finalizando la sección de Productos
+03:29
+Creando el Footer
+09:08
+Finalizando el Footer
+06:20
+
+Ecommerce - Creando las páginas internas
+8 clases • 49 min
+Creando la página de Nosotros
+11:29
+Creando la página de la Tienda
+01:17
+Creando la página de Blog
+11:01
+Finalizando la página de Blog
+04:43
+CSS al Blog
+11:30
+Creando la Entrada del Blog
+03:11
+Creando la Página de Galería
+02:48
+Finalizando la Galería
+03:16
+
+Ecommerce - Formularios HTML
+9 clases • 49 min
+Creando el Form y el primer campo
+06:08
+Creando y Agrupando más campos
+06:09
+Inputs para teléfonos, fechas, emails
+06:36
+Creando un Select
+05:00
+Creando un Radio Button
+03:58
+El Campo Datalist
+03:48
+Input Submit y Validación
+02:36
+CSS al Formulario Parte 1
+06:43
+CSS al Formulario Parte 2
+08:12
+
+Flexbox - Basicos, Propiedades y Más
+13 clases • 1 h 11 min
+Display Flex (descarga materiales aquí)
+03:27
+Flex Direction
+02:42
+Justify Content
+03:58
+Justify Content cuando la Dirección es Columna
+03:02
+Align Items
+05:33
+Align Items Cuando la dirección es Columna
+04:15
+Align Items y Justify Content
+12:21
+Flex Basis
+04:41
+Gap y Calc
+08:51
+Flex Wrap
+03:16
+Flex Grow
+09:24
+Flex Shrink
+03:31
+Flex Shortand
+06:11
+
+CSS Grid - Basicos, Propiedades y Más
+12 clases • 1 h 11 min
+Display Grid (Descarga Materiales aquí)
+02:24
+Grid Template Columns y Posicionar Elementos
+05:06
+Grid Template Rows
+07:44
+Column Span y row Span
+06:29
+Grid Shorthand
+02:00
+Grid Autoflow
+04:46
+Grid Fr y Grid Repeat
+07:58
+Grid Gap
+04:36
+Grid Areas
+14:35
+Grid Template
+03:48
+Alineación en Grid
+03:52
+Autofill y Autofit
+08:09
+
+Selectores CSS - Todo lo que tienes que saber
+15 clases • 58 min
+Selector de Etiqueta (Descarga Materiales Aquí)
+02:20
+Selector de Clase
+02:37
+Selector de 2 Clases
+05:01
+Selector de Clases Anidadas
+04:13
+Selector de ID
+04:43
+Selector de Etiqueta y Clase
+02:31
+2 Elementos
+03:04
+Primer Nivel de Hijos
+03:40
+Primer Elemento Después
+03:22
+Atributo
+05:18
+Primer Hijo de una Lista
+02:00
+Último Hijo de una lista
+01:35
+Seleccionar un elemento especifico
+09:29
+Todos los elementos excepto uno o unos
+05:02
+Primer Linea o Primer palabra
+03:28
+
+Introducción a Responsive Web Design
+15 clases • 1 h 40 min
+¿Qué es Responsive Web Design?
+03:30
+Primeros pasos con Media Queries (Descarga material aquí)
+12:59
+Formas de Probar tu sitio Responsive
+04:47
+Media Queries al estilo Mobile First
+07:15
+Media Queries al Estilo Desktop First
+08:55
+Media Queries entre 2 tamaños
+05:11
+Creando un Snippet para Media Queries
+10:03
+Tamaños estandar para Media Queries
+05:34
+Crear Contenedores Responsive
+04:56
+3 Columnas Responsive en Flexbox
+02:20
+3 Columnas Responsive en CSS Grid
+01:52
+Imágenes Responsive
+04:40
+Imágenes en Avif y Webp Para mayor performance
+12:39
+Creando un Shorthand para Avif y Webp
+
+07:20
+Mostrando imágenes de diferentes tamaños con SRCSET
+08:08
+
+Ecommerce - Agregando Media Queries para convertirlo en Responsive
+11 clases • 1 h 3 min
+El Proyecto Finalizado
+01:36
+Primeros Pasos (Descarga materiales aquí)
+08:31
+Ajustando la Navegación
+05:44
+Ajustando las Categorias
+04:46
+Ajustando el Bloque de Nosotros
+12:26
+Ajustando los Productos
+04:04
+Ajustando el Footer
+06:09
+Ajustando la página de Nosotros
+02:43
+Ajustando el Blog
+08:51
+Ajustando la Galería
+03:57
+Deployment de Proyectos en Netlify
+04:37
