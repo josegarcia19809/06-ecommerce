@@ -1,18 +1,6 @@
-Introducción Flexbox y CSS Grid: Terminología de CSS Grid
+Finalizando la Página de Inicio: Creando las Categorías
 
-¿Que es Flexbox? y aplicandolo al proyecto
-06:51
 
-07:39
-
-03:37
-
-11:01
-
-Ecommerce - Finalizando la Página de Inicio
-14 clases • 2 h 6 min
-Creando las Categorías
-08:28
 Añadiendo Fuentes en CSS
 10:02
 Unidades en CSS y porque utilizar REM

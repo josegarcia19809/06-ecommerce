@@ -14,12 +14,13 @@ a {
 }
 
 .contenedor {
-    max-width: 120rem;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
 img{
     max-width: 100%;
+    display: block;
 }
 
 /** Header y Navegacion **/
@@ -60,6 +61,23 @@ img{
 .listado-categorias{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;
+    gap: 20px;
+}
+
+.categorias h2{
+    text-align: center;
+}
+
+.categoria a{
+    text-align: center;
+    display: block;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.categoria a:hover{
+    background-color: #037bc0;
+    color: #fff;
+    border-bottom-right-radius: 10px;
 }
 
