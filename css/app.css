@@ -18,9 +18,14 @@ a {
     margin: 0 auto;
 }
 
+img{
+    max-width: 100%;
+}
+
 /** Header y Navegacion **/
 .nombre-sitio {
     margin-top: 5rem;
+    margin-bottom: 50px;
     text-align: center;
 }
 
@@ -54,5 +59,7 @@ a {
 /** Bloque Categorías**/
 .listado-categorias{
     display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
 }
 
