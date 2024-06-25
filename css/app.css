@@ -51,3 +51,8 @@ a {
 
 }
 
+/** Bloque Categorías**/
+.listado-categorias{
+    display: grid;
+}
+

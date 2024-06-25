@@ -1,10 +1,10 @@
-Introducción Flexbox y CSS Grid:
+Introducción Flexbox y CSS Grid: ¿Qué es CSS Grid? y aplicandolo al Proyecto
 
 ¿Que es Flexbox? y aplicandolo al proyecto
 06:51
 Alineación en Flexbox
 07:39
-¿Qué es CSS Grid? y aplicandolo al Proyecto
+
 03:37
 Terminología de CSS Grid
 11:01
