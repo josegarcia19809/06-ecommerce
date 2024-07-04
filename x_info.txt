@@ -1,8 +1,5 @@
-Finalizando la Página de Inicio: Creando las Categorías
+Finalizando la Página de Inicio: Añadiendo Fuentes en CSS
 
-
-Añadiendo Fuentes en CSS
-10:02
 Unidades en CSS y porque utilizar REM
 17:52
 Formas de Escribir código en CSS

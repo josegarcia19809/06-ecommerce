@@ -8,6 +8,14 @@ html {
 
 /* Globales */
 
+body {
+    font-family: "Raleway", serif;
+}
+
+h1, h2, h3 {
+    font-family: "Playfair Display", serif;
+}
+
 a {
     text-decoration: none;
     color: #000;
@@ -18,7 +26,7 @@ a {
     margin: 0 auto;
 }
 
-img{
+img {
     max-width: 100%;
     display: block;
 }
@@ -58,24 +66,24 @@ img{
 }
 
 /** Bloque Categorías**/
-.listado-categorias{
+.listado-categorias {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
 
-.categorias h2{
+.categorias h2 {
     text-align: center;
 }
 
-.categoria a{
+.categoria a {
     text-align: center;
     display: block;
     padding: 20px;
     font-size: 20px;
 }
 
-.categoria a:hover{
+.categoria a:hover {
     background-color: #037bc0;
     color: #fff;
     border-bottom-right-radius: 10px;
