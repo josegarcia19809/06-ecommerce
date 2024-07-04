@@ -1,8 +1,6 @@
-Finalizando la Página de Inicio: Unidades en CSS y porque utilizar REM
+Finalizando la Página de Inicio: Ajustando el Diseño
 
-Formas de Escribir código en CSS
-03:52
-Ajustando el Diseño
+
 09:53
 Creando la sección de Nosotros
 10:01
