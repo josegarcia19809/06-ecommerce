@@ -1,7 +1,5 @@
-Finalizando la Página de Inicio: Añadiendo Fuentes en CSS
+Finalizando la Página de Inicio: Unidades en CSS y porque utilizar REM
 
-Unidades en CSS y porque utilizar REM
-17:52
 Formas de Escribir código en CSS
 03:52
 Ajustando el Diseño
