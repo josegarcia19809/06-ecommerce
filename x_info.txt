@@ -1,7 +1,5 @@
-Finalizando la Página de Inicio: Creando la sección de Nosotros
+Finalizando la Página de Inicio: ¿Cuando utilizar CSS Grid y cuando Flexbox?
 
-¿Cuando utilizar CSS Grid y cuando Flexbox?
-07:26
 Creando la sección de Productos
 08:21
 Finalizando los Productos
